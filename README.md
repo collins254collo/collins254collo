@@ -21,7 +21,7 @@ I'm a passionate full-stack developer from Kenya building high-impact web apps, 
 - **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=fff)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
 - **Tools & Hosting**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=000) ![Railway](https://img.shields.io/badge/-Railway-000?style=flat&logo=railway&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)
-- **Currently Learning**: ![AI](https://img.shields.io/badge/-AI%20Integrations-000?style=flat&logo=openai&logoColor=white) ![Cloud](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat&logo=googlecloud&logoColor=fff)
+
 - **Extras**: SEO Optimization, System Design
 
 ---
