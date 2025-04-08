@@ -3,7 +3,7 @@
 
 ---
 
-### 💡 About Me
+
 
 I’m a passionate full-stack developer from Kenya building high-impact web apps, APIs, and AI-powered tools.  
 💼 Co-founder of [**Colman Tech Savvy**](https://colman-client.vercel.app), a freelance digital agency providing web/mobile development and UI/UX solutions.
