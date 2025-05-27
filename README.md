@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,tailwind,postgres,mongodb,vercel,netlify,git,csharp" alt="Tech stack icons" />
 </p>
 
-I'm a passionate full-stack developer from Kenya building high-impact web apps, APIs, and AI-powered tools.  
+I'm a passionate full-stack developer  building high-impact web apps, APIs, and AI-powered tools.  
 💼 Co-founder of [**Colman Tech Savvy**](https://colman-client.vercel.app) — a freelance digital agency providing web/mobile development and UI/UX solutions.
 
 🎯 Currently learning **C#**, exploring **cloud computing**, and open to new opportunities.  
