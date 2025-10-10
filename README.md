@@ -29,7 +29,7 @@ I'm a passionate full-stack developer  building high-impact web apps, APIs, and 
 ### 📬 Let’s Connect
 
 <p align="left">
-  <a href="https://collins-eta.vercel.app" target="_blank">🌐 Portfolio Website</a><br>
+  <a href="https://collins-wamiatu.vercel.app/" target="_blank">🌐 Portfolio Website</a><br>
   <a href="mailto:njogucollins10397@gmail.com">📧 Email</a><br>
   <a href="https://www.linkedin.com/in/collins-njogu-4aa75a351" target="_blank">💼 LinkedIn</a><br>
   <a href="https://instagram.com/collo9146" target="_blank">🐦 Instagram</a>
