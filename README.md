@@ -5,7 +5,7 @@ $ whoami
 collins-njogu
 
 $ cat about.txt
-Full-Stack Engineer specializing in React & Node.js
+Full-Stack Engineer 
 Co-founder @ Colman Tech Savvy
 Building scalable web applications and APIs
 
