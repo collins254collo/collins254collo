@@ -1,35 +1,46 @@
 # Collins Njogu
 
-Full-Stack Engineer | Building scalable web apps & APIs
+```bash
+$ whoami
+collins-njogu
 
-Co-founder @ [Colman Tech Savvy](https://colman-client.vercel.app)
+$ cat about.txt
+Full-Stack Engineer | React & Node.js Specialist
+Co-founder @ Colman Tech Savvy
+Building scalable web applications & APIs
 
-```js
-const dev = {
-  code: ["JavaScript", "TypeScript", "C#"],
-  stack: ["React", "Node.js", "Next.js", "PostgreSQL"],
-  focus: "Backend Architecture & Cloud",
-  status: "Open to work"
-};
+$ ls skills/
+languages/     # JavaScript, TypeScript, C#, SQL
+frontend/      # React, Next.js, Tailwind CSS
+backend/       # Node.js, Express, PostgreSQL, MongoDB
+tools/         # Git, Vercel, Railway, Render
+focus/         # Cloud Computing, System Design
+
+$ cat status.json
+{
+  "currently": "Learning C# & Cloud Architecture",
+  "availability": "Open to opportunities",
+  "location": "Nairobi, KE"
+}
+
+$ ./projects.sh
+→ Colman Tech Savvy      https://colman-client.vercel.app
+→ Portfolio Website      https://collins-wamiatu.vercel.app
+
+$ echo $CONTACT
+portfolio  → https://collins-wamiatu.vercel.app
+linkedin   → linkedin.com/in/collins-njogu-4aa75a351
+email      → njogucollins10397@gmail.com
+github     → @collins254collo
 ```
 
-## Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-## GitHub Stats
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=collins254collo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collins254collo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=collins254collo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collins254collo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
 </p>
 
-## Connect
-
-[**Portfolio**](https://collins-wamiatu.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/collins-njogu-4aa75a351) • [**Email**](mailto:njogucollins10397@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=collins254collo&color=58a6ff&style=flat-square&label=visitors" alt="profile views"/>
+</p>
