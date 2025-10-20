@@ -10,6 +10,7 @@
 
 </div>
 
+
 ```bash
 $ cat about.txt
 Full-Stack Engineer specializing in scalable web applications and APIs
