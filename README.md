@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full-Stack Engineer | Co-founder @ Colman Tech Savvy**
+  **Full-Stack Engineer | Co-founder @SportTechies Innovation Limited**
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel)](https://collins-wamiatu.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/collins-njogu-4aa75a351)
@@ -63,10 +63,6 @@ $ ls work/
 colman-tech-savvy/    # Digital agency - Web & mobile solutions
 portfolio/            # Personal portfolio and showcase
 ```
-
-**View my work:** [collins-wamiatu.vercel.app](https://collins-wamiatu.vercel.app)  
-**Company site:** [colman-client.vercel.app](https://colman-client.vercel.app)
-
 
 ## Contact
 
