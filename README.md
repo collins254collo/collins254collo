@@ -14,7 +14,6 @@
 ```bash
 $ cat about.txt
 Full-Stack Engineer specializing in scalable web applications and APIs
-Co-founder @ Colman Tech Savvy - Digital solutions agency
 Based in Nairobi, Kenya
 ```
 
@@ -60,7 +59,6 @@ $ cat services.txt
 
 ```bash
 $ ls work/
-colman-tech-savvy/    # Digital agency - Web & mobile solutions
 portfolio/            # Personal portfolio and showcase
 ```
 
