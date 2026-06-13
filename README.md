@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full-Stack Engineer 
+  Full-Stack Engineer 
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel)](https://collins-wamiatu.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/collins-njogu-4aa75a351)
