@@ -16,18 +16,6 @@ Nairobi, Kenya
 
 I design and ship production web platforms: PostgreSQL schemas, secure REST APIs, and React/Next.js frontends. My focus is backend reliability: transactions, concurrency, and admin workflows that hold up under real users.
 
-## Selected Work
-
-**[MyManyatta](https://www.mymanyatta.com/)** · Real estate and services marketplace
-Concurrency-safe tour booking with row-level locking, a listing approval workflow with role-based admin control, and real-time notifications.
-`Node.js` `Express` `PostgreSQL` `React`
-[ADD: users, listings or traffic]
-
-**[RunnerMKT](https://www.runnermkt.com/)** · Athletics gear and race events marketplace
-Built for Kenya's running community.
-`Node.js` `PostgreSQL` `React`
-[ADD: one concrete result]
-
 ## Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -42,7 +30,6 @@ Built for Kenya's running community.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Currently learning:** C# and cloud architecture (Azure)
-
 
 <div align="center">
 
