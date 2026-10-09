@@ -4,7 +4,7 @@
 
 **Full-stack engineer building reliable production platforms**
 
-Nairobi, Kenya · Open to full-time roles and contracts
+Nairobi, Kenya
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://collins-wamiatu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-njogu-4aa75a351)
@@ -18,12 +18,12 @@ I design and ship production web platforms: PostgreSQL schemas, secure REST APIs
 
 ## Selected Work
 
-**[MyManyatta](LIVE_LINK)** · Real estate and services marketplace
+**[MyManyatta](https://www.mymanyatta.com/)** · Real estate and services marketplace
 Concurrency-safe tour booking with row-level locking, a listing approval workflow with role-based admin control, and real-time notifications.
 `Node.js` `Express` `PostgreSQL` `React`
 [ADD: users, listings or traffic]
 
-**[RunnerMKT](LIVE_LINK)** · Athletics gear and race events marketplace
+**[RunnerMKT](https://www.runnermkt.com/)** · Athletics gear and race events marketplace
 Built for Kenya's running community.
 `Node.js` `PostgreSQL` `React`
 [ADD: one concrete result]
