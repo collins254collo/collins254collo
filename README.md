@@ -41,9 +41,8 @@ Built for Kenya's running community.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Currently learning:** C# and cloud architecture (AWS/Azure)
+**Currently learning:** C# and cloud architecture (Azure)
 
-## Let's Work Together
 
 <div align="center">
 
